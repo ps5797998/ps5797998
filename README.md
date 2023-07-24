@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="logo.png" type="image/x-icon">
-  <title>Gaurav Pandey</title>
+  <title>Abhishek yadav</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     .back{
@@ -25,7 +25,7 @@
     <div class="container mx-auto flex flex-wrap flex-col md:flex-row items-center">
       <a href="#main" class="flex title-font font-medium items-center text-white mb-4 md:mb-0 cursor-pointer">
         <img src="logo.png" class="w-24 h-24" >
-         <!-- <span class="ml-3 text-xl">Gaurav Pandey</span> -->
+         <!-- <span class="ml-3 text-xl">Abhishek yadav</span> -->
      </a>
       <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
 
@@ -45,7 +45,7 @@
   <section class="text-gray-400  body-font">
     <div class="container mx-auto flex px-5 py-4 sm:py-24 md:flex-row flex-col items-center ">
       <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-        <h2 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Hello, I am <span class="text-green-400"> Gaurav </span></h2>
+        <h2 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Hello, I am <span class="text-green-400"> Abhishek </span></h2>
             <h1 class="title-font sm:text-3xl text-2xl mb-4 font-medium text-white">Bringing Ideas to Life with Innovative <br class="hidden lg:inline-block">  Web Solutions</h1>
             <p class="leading-relaxed mb-8">As a Web developer, I'm constantly exploring new ways <br class="hidden lg:inline-block"> to bring ideas to life. With a passion for creativity and a  deep understanding <br class="hidden lg:inline-block">of technology,  I'm able to transform complex concepts into real-world solutions <br class="hidden lg:inline-block"> that make a difference. </p>
             <div class="flex justify-center">
